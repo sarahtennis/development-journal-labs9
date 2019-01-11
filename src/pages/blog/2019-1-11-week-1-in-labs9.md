@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Project
-# Knowledge Without College
+### Knowledge Without College
 
 Knowledge Without College is a job board that connects employers with talented job seekers who may not have a college degree. This paid job posting service encourages employers to emphasize the skills desired in an employee rather than focusing on formal education.
 
