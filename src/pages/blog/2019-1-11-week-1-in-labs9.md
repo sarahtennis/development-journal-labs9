@@ -20,7 +20,7 @@ GitHub Handle: sarahtennis
 
 ## Tasks Pulled
 
-# Front End
+### Front End
 * Ticket 1
   * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/10
   * Trello: https://trello.com/c/GFkaxsJE/38-sign-up-email
@@ -33,7 +33,8 @@ GitHub Handle: sarahtennis
 * Ticket 4
   * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/28
   * Trello: https://trello.com/c/RNP7HpdY/49-react-organization
-# Back End
+
+### Back End
 * Ticket 1
   * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/2
   * Trello: https://trello.com/c/A400GlZq/37-build-express-server
@@ -61,12 +62,12 @@ Overall I appreciate how well we work together and look forward to building an a
 
 ## Milestone
 
-# Deployment Links
+### Deployment Links
  
 * Front End: https://knowledge-without-college.netlify.com/
 * Back End: https://knowledge-without-college.herokuapp.com/
   * Use /test to view server response.
 
-# User Models
+### User Models
 
 * ![user model](/img/week-1-user-model.png)
