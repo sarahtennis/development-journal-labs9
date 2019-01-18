@@ -60,6 +60,10 @@ After some difficulties with our back end deployment, things starting picking up
 
 It has been getting easier to work in a group. We keep a group video chat open at all times, but we divide up the work and conquer. We completed the milestone requirements for this week and discussed which parts of next week's milestone we'd each start on.
 
+## Whiteboard Interview
+
+* Linked List Palindrome: https://youtu.be/8uvASNQ_OmA
+
 ## Milestone
 
 ### Deployment Links
