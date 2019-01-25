@@ -50,11 +50,15 @@ I created an end point to receive all jobs for a user, but the only user referen
 
 On the front end, the necessary component does not always receive the Firebase id before componentDidMount is called so I used conditional statements to make sure the id has been received before requesting the user's jobs from the server.
 
-![get jobs by user](/img/week-3-get-jobs-by-user.png) ![fetch jobs](/img/week-3-fetch-jobs.png)
+![get jobs by user](/img/week-3-get-jobs-by-user.png) 
+
+![fetch jobs](/img/week-3-fetch-jobs.png)
 
 A friend of mine has always preached, "Protect your database!" When I was creating the post and put requests for jobs, I used a basic data types objects to prevent the database from seeing malformed data. I tested the end points in development and production.
 
-![update job](/img/week-3-update-job.png) ![data types object](/img/week-3-data-types-object.png)
+![update job](/img/week-3-update-job.png) 
+
+![data types object](/img/week-3-data-types-object.png)
 
 ## Reflections
 
