@@ -22,23 +22,23 @@ GitHub Handle: sarahtennis
 
 ### Front End
 * Ticket 1
-  * Github: 
-  * Trello: 
+  * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/160
+  * Trello: https://trello.com/c/8F6AvUut/99-default-avatar
 * Ticket 2
-  * Github: 
-  * Trello: 
+  * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/148
+  * Trello: https://trello.com/c/Z1jixVnc/98-new-account-information-form-new-design
 * Ticket 3
-  * Github: 
-  * Trello: 
+  * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/142
+  * Trello: https://trello.com/c/AA2rYyVO/91-sign-up-single-jop-vieww
 * Ticket 4
-  * Github:
-  * Trello:
+  * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/142
+  * Trello: https://trello.com/c/IwScbThf/92-reset-password
 * Ticket 5
-  * Github:
-  * Trello:
+  * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/135
+  * Trello: https://trello.com/c/K1G1xRwS/90-sign-in
 * Ticket 6
-  * Github:
-  * Trello
+  * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/155
+  * Trello: https://trello.com/c/qf2bY49k/101-sign-in-sign-up-redirect
 
 ## Analysis
 
@@ -46,7 +46,7 @@ GitHub Handle: sarahtennis
 
 ![new account modal](/img/week-4-styling2.png)
 
-![default avatar](/img/week-3-update-job.png) 
+![default avatar](/img/week-4-default-avatar.png) 
 
 ## Reflections
 
