@@ -60,6 +60,8 @@ The new account information modal will set the user's 'avatar_image' within the 
 
 ## Reflections
 
+Another fast-paced, but satisfying week. Savannah's mock-up files were a great help for us all to start the week on the same page. I was slightly upset when I had to change some aspects of my styling after our design specifications meeting, but throughout Labs I have become better at working in a group and am coming to embrace that not everything has to be my way. I am so thankful for the group dynamic we have and appreciate the communciation and hard work from everyone.
+
 ## Whiteboard Interview
 
 * Min Heap: https://youtu.be/Yft3kYjlCMo
