@@ -54,7 +54,7 @@ In addition to styling the new account information modal, I also corrected the s
 
 One task that I picked up was to create a default avatar image for users who did not upload a new image. Originally I tried to find a license free image that we could use, but ended up creating my own in GIMP to avoid needing to credit an external source. I hosted my image on ImageShack with a trial account, but will need to move it somewhere else after the trial ends.
 
-The new account information modal will set the user's 'avatar_image' within the database to the url for the default avatar if he does not upload another image through Cloudinary. I also manually went through the deployed database and added the url to the accounts with empty 'avatar_image' values to avoid having to log into each test account.
+The new account information modal will set the user's avatar image within the database to the url for the default avatar if he does not upload another image through Cloudinary. I also manually went through the deployed database and added the url to the accounts with empty avatar image  values to avoid having to log into each test account.
 
 ![default avatar](/img/week-4-default-avatar.png) 
 
