@@ -55,12 +55,14 @@ Within the update profile component a race condition was being handled using set
 ![race condition fix](/img/race-condition.png)
 
 After handling the race condition, the render function of the update profile component displays:
-|Condition|Display|
-|---|---|
-|Undefined user object in props|Loading image|
-|Null user object in props (no authenticated user)|Redirects to landing page|
-|Truthy user object, no account information in database|New account information modal|
-|Truthy user object, account information in database|Account information with edit, change password, and billing actions|
+
+<table>
+<tr><th>Condition</th><th>Display</th></tr>
+<tr><td>Undefined user object in props</td><td>Loading image</td></tr>
+<tr><td>Null user object in props (no authenticated user)</td><td>Redirects to landing page</td></tr>
+<tr><td>Truthy user object, no account information in database</td><td>New account information modal</td></tr>
+<tr><td>Truthy user object, account information in database</td><td>Account information with edit, change password, and billing actions</td></tr>
+</table>
 
 ## Reflections
 Mid-week I got sick and spent the majority of a day in urgent care and then the ER for very minor surgery. Through this my team members have been unbelievably kind. I felt as though I did not pull my weight this week, not a feeling I like, but they took care of everything I couldn't help with. Once we redo the video for the WEB14X Capstone Defense I will make sure to contribute as much as possible.
