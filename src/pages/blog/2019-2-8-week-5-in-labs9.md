@@ -33,6 +33,7 @@ GitHub Handle: sarahtennis
 * Ticket 4
   * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/194
   * Trello: https://trello.com/c/jPqI4P5L/115-bug-unable-to-set-active-collegedegree-to-false-in-edit-job-view-after-initial-creation
+
 ### Documentation
 * Ticket 1
   * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/173
@@ -43,8 +44,13 @@ GitHub Handle: sarahtennis
   * Trello: https://trello.com/c/mtvOadtN/113-license-file
 
 ## Analysis
+The majority of the work I completed this week was fixing bugs after manually testing the project as a user. I went through and made sure that all links and buttons had the same animation and color scheme.
+![hover animation](/img/hover-animation.gif)
 
 ## Reflections
+Mid-week I got sick and spent the majority of a day in urgent care and then the ER for very minor surgery. Through this my team members have been unbelievably kind. I felt as though I did not pull my weight this week, not a feeling I like, but they took care of everything I couldn't help with. Once we redo the video for the WEB14X Capstone Defense I will make sure to contribute as much as possible.
+
+Labs has been a stressful, educational, and in the end rewarding experience.
 
 ## Milestone
 
