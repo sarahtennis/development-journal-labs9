@@ -57,11 +57,11 @@ Within the update profile component a race condition was being handled using set
 After handling the race condition, the render function of the update profile component displays:
 
 <table style="border: 1px solid black;">
-<tr style="border: 1px solid black;"><td><em style="font-weight: 600">Condition</em></td><td><em style="font-weight: 600">Display</em></td></tr>
-<tr style="border: 1px solid black;"><td>Undefined user object in props</td><td>Loading image</td></tr>
-<tr style="border: 1px solid black;"><td>Null user object in props (no authenticated user)</td><td>Redirects to landing page</td></tr>
-<tr style="border: 1px solid black;"><td>Truthy user object, no account information in database</td><td>New account information modal</td></tr>
-<tr style="border: 1px solid black;"><td>Truthy user object, account information in database</td><td>Account information with edit, change password, and billing actions</td></tr>
+<tr><td><em style="font-weight: 600">Condition</em></td><td><em style="font-weight: 600">Display</em></td></tr>
+<tr><td>Undefined user object in props</td><td>Loading image</td></tr>
+<tr><td>Null user object in props (no authenticated user)</td><td>Redirects to landing page</td></tr>
+<tr><td>Truthy user object, no account information in database</td><td>New account information modal</td></tr>
+<tr><td>Truthy user object, account information in database</td><td>Account information with edit, change password, and billing actions</td></tr>
 </table>
 
 ## Reflections
