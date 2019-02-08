@@ -16,29 +16,31 @@ Knowledge Without College is a job board that connects employers with talented j
 
 GitHub Handle: sarahtennis
 
-![contribution graph](/img/week-4-contribution-graph.png)
+![contribution graph](/img/week-5-contribution-graph.png)
 
 ## Tasks Pulled
 
 ### Front End
 * Ticket 1
-  * Github: 
-  * Trello: 
+  * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/194
+  * Trello: https://trello.com/c/cyn1A98k/103-rehost-default-avatar
 * Ticket 2
-  * Github: 
-  * Trello: 
+  * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/185
+  * Trello: https://trello.com/c/Ly64B3B7/110-standardizing-button-colors-transitions
 * Ticket 3
-  * Github: 
-  * Trello: 
+  * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/194
+  * Trello: https://trello.com/c/wMvTr6So/114-bug-race-condition-settimeout-in-update-profile-component
 * Ticket 4
-  * Github: 
-  * Trello: 
-* Ticket 5
-  * Github: 
-  * Trello: 
-* Ticket 6
-  * Github: 
-  * Trello: 
+  * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/194
+  * Trello: https://trello.com/c/jPqI4P5L/115-bug-unable-to-set-active-collegedegree-to-false-in-edit-job-view-after-initial-creation
+### Documentation
+* Ticket 1
+  * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/173
+  * Trello: https://trello.com/c/7XtGWXPs/13-readme
+  * Content Provided: Data Models, PostgresQL Set up, Firebase
+* Ticket 2
+  * Github: https://github.com/Lambda-School-Labs/labs9-job-board/pull/168
+  * Trello: https://trello.com/c/mtvOadtN/113-license-file
 
 ## Analysis
 
